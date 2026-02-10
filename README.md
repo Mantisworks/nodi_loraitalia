@@ -16,7 +16,7 @@
 * **Calcolo Distanze**: Formula di Haversine per la distanza esatta in km.
 
 ---
-![Mappa Nodi LoRa](screen.png)
+![Mappa Nodi LoRa](screen.PNG)
 ---
 
 ## 🛠️ Installazione
