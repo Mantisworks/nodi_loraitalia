@@ -1,6 +1,6 @@
-# 📡 Nodi LoRa Italia Pro (WP Plugin)
+# 📡 Nodi LoRa Italia (WP Plugin)
 
-**Nodi LoRa Italia Pro** è un plugin avanzato per WordPress sviluppato per monitorare e visualizzare in tempo reale lo stato della rete **Meshtastic** sul territorio italiano. Grazie all'integrazione con le API di LoRa Italia, permette di visualizzare i nodi, la loro telemetria e i collegamenti radio direttamente sul tuo sito web.
+**Nodi LoRa Italia** è un plugin per WordPress sviluppato per monitorare e visualizzare in tempo reale lo stato della rete **LoRaItalia** sul territorio italiano. Grazie all'integrazione con le API di LoRa Italia, permette di visualizzare i nodi, la loro telemetria e i collegamenti radio direttamente sul tuo sito web.
 
 
 
@@ -48,7 +48,7 @@ Ogni regione ha coordinate dedicate per evitare sovrapposizioni tra aree confina
 
 ## 👤 Autore
 
-**Ruben Giancarlo Elmo (IZ7ZKR)** *Radioamatore e sviluppatore, appassionato di tecnologie LoRa e Meshtastic.*
+**Ruben Giancarlo Elmo (IZ7ZKR)** *Radioamatore e sviluppatore, appassionato di tecnologie radio e LoRa.*
 
 ---
 
